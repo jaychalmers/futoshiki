@@ -1,7 +1,7 @@
 # futoshiki
 
 Futoshiki game with GUI written in Java.
-Includes a solve algorithm.
+Includes saving/loading and a solve algorithm.
 
 Was submitted as solution to my end of term assignment for Further Programming, Year 1, Computer Science BSc, University of Sussex (Spring 2016).
 
